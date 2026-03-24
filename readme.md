@@ -123,12 +123,6 @@ While building this project, I got hands-on experience with:
 
 ---
 
-## 🙋‍♂️ About me
-
-I’m currently learning backend development and working on improving my skills in **Java + Spring Boot** by building real-world projects like this.
-
----
-
 ## ⭐ If you found this useful
 
 Give it a star ⭐ — it motivates me to build more projects!
